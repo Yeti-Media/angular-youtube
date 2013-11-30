@@ -1,0 +1,30 @@
+{
+  "name": "angular-youtube",
+  "version": "0.0.0",
+  "authors": [
+    "Yeti Media"
+  ],
+  "description": "Angular services for the Youtube API v3.0",
+  "main": "angular-youtube.js",
+  "keywords": [
+    "angular",
+    "youtube",
+    "api",
+    "services",
+    "resources",
+    "wrapper"
+  ],
+  "license": "Apache 2.0",
+  "homepage": "http://github.com/yeti-media/angular-youtube",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "~1.2.3",
+    "angular-mocks": "~1.2.3"
+  }
+}
